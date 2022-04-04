@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<title> KÜÇÜK BİR BAŞLANGIÇ</title>
+<head>
+<meta charset="utf-8"/>
+<title>BAŞLIK</title>
+</head>
+<body>
+<img src="C:\Users\CERENGUDER\Desktop\görüntü damgalama\image.jpg" alt="fotonun tanımı" title="üstüne gelince yazıyor"/>
+<p> güzel bir resim</p>
+<a href="https://tr.wikipedia.org/>wikipedia için tıkla>/a>
+</body>
